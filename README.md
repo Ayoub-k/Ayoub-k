@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Ayoub-k
-- 🌱 I’m currently learning about data science, data engineer, data analyst
+- 🌱 I'm currently exploring advanced concepts in data science and data engineering to further enhance my skills and knowledge in these fields. I'm passionate about leveraging data to gain insights and solve complex problems.
+
+
 
 
 <!---
